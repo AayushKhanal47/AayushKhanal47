@@ -9,7 +9,6 @@
 - 🌱 I’m currently learning FrontEnd as well as BackEnd .
 - 🔭 I’m currently working on React Js and Express Js .
 - 📫 How to reach me: www.linkedin.com/in/aayush-khanal-b1ab64290
-- 😄 Pronouns: he/him
 <br>
 
 
